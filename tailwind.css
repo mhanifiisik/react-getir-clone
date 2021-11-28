@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap");
+
+html {
+  font-family: "Open Sans", sans-serif;
+  @apply antialiased bg-purple-200 bg-opacity-10;
+}
+body {
+  overflow-x: hidden;
+}
+
+.flag-select button {
+  @apply h-14 w-28 border-gray-300 border-2 transition-colors hover:border-purple-300 p-2;
+}
+.flag-select button > span span:nth-child(2) {
+  @apply text-sm pl-2;
+}

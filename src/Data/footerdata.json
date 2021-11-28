@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Discover Getir",
+    "subtitles": [
+      { "subtitle": "About us" },
+      { "subtitle": "Careers" },
+      { "subtitle": "Technology Careers" },
+      { "subtitle": "Contact us" },
+      { "subtitle": "COVID-19 Announcement" },
+      { "subtitle": "Social Responsibility Projects" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Need help?",
+    "subtitles": [
+      { "subtitle": "FAQ" },
+      { "subtitle": "Protecting Private Information" },
+      { "subtitle": "Privacy Policy" },
+      { "subtitle": "Terms & Conditions" },
+      { "subtitle": "Cookie Policy" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Become Our Business Partner",
+    "subtitles": [
+      { "subtitle": "Become a Franchisee" },
+      { "subtitle": "Rent Your Warehouse" },
+      { "subtitle": "Become a GetirFood Restaurant" },
+      { "subtitle": "Become a GetirLocals Business" }
+    ]
+  }
+]
